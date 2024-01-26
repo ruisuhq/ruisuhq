@@ -1,4 +1,4 @@
-### Hi there 👋
+### Helo, soy nuevo en Github y la verdad no sé usar esto! ✨
 
 <!--
 **ruisuhq/ruisuhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
