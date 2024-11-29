@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ruisuhq)
 
 ```json
-"Luis Gerardo": {
+"RuisuHQ": {
   "Name": "Luis Gerardo",
   "Age": "20",
   "Preferred_langs": ["Python", "HTML/CSS", "Django", "C++"],
