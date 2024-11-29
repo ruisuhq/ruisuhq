@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, Welcome to my profile! 👋🏻
 
-<!--
-**ruisuhq/ruisuhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ About Me:
+- **Software Engineer Student** at Universidad de Guadalajara (CUCEI)  
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-gerardo-brice%C3%B1o-caguado-a693aa210/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat-square&logo=instagram)](https://www.instagram.com/ruisuhq)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ruisuhq)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+"Luis Gerardo": {
+  "Name": "Luis Gerardo",
+  "Age": "20",
+  "Preferred_langs": ["Python", "HTML/CSS", "Django", "C++"],
+  "Libraries/Frameworks": ["Bootstrap", "QtDesigner", "Tkinter", "Flask"]
+}
+```
+
+---
+
+### 📌 More About Me:
+- 🇻🇪  From **Venezuelan**.  
+- 💬 I'm **Bilingual** (Spanish, English).
+- 📚 College student, committed to learn and innovate
+- 🎧 Kinda into Jazz music    
+
+---
