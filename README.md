@@ -20,7 +20,7 @@
 ---
 
 ### 📌 More About Me:
-- 🇻🇪  From **Venezuelan**.  
+- 🇻🇪  From **Venezuela**.  
 - 💬 I'm **Bilingual** (Spanish, English).
 - 📚 College student, committed to learn and innovate
 - 🎧 Kinda into Jazz music    
