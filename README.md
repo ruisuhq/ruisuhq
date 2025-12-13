@@ -1,28 +1,68 @@
-# Hi, Welcome to my profile! 👋🏻
+# Luis Gerardo Briceño Caguado
 
-### 🖥️ About Me:
-- **Software Engineer Student** at Universidad de Guadalajara (CUCEI)  
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-gerardo-brice%C3%B1o-caguado-a693aa210/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat-square&logo=instagram)](https://www.instagram.com/ruisuhq)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ruisuhq)
-
-```json
-"RuisuHQ": {
-  "Name": "Luis Gerardo",
-  "Age": "20",
-  "Preferred_langs": ["Python", "HTML/CSS", "Django", "C++"],
-  "Libraries/Frameworks": ["Bootstrap", "QtDesigner", "Tkinter", "Flask"]
-}
-```
+- **Software Engineering Student** - Universidad de Guadalajara (CUCEI).
+- Full-stack Developer
 
 ---
 
-### 📌 More About Me:
-- 🇻🇪  From **Venezuela**.  
-- 💬 I'm **Bilingual** (Spanish, English).
-- 📚 College student, committed to learn and innovate
-- 🎧 Kinda into Jazz music    
+## Profile
+
+- Software Engineering student with strong fundamentals in **backend development, systems, and algorithms**
+- Experience building **real academic and personal projects**, not toy examples
+- Comfortable working with **Python and C++**, from logic-heavy code to user-facing applications
+- Fast learner with a clear understanding that **engineering is continuous improvement**
 
 ---
+
+## Technical Stack
+
+**Languages**
+- Python
+- C / C++
+- Dart
+- HTML / CSS
+- SQL
+
+**Frameworks & Tools**
+- Flutter
+- Django
+- Flask
+- Tkinter
+- Qt Designer
+- Bootstrap
+- Git
+
+**Core Knowledge**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Client–Server Architecture
+- MVC & REST APIs
+
+---
+
+## What I Build
+
+- Backend-driven applications with clear architecture
+- Desktop systems (Python) combining GUI + business logic
+- Web applications with authentication, sessions, and data flow
+- System simulations and algorithm-based solutions
+- Data extraction and analysis pipelines
+
+---
+
+## Background
+
+- Venezuelan in Mexico
+- Bilingual: Spanish / English
+- Strong interest in **engineering fundamentals over hype**
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/luis-gerardo-brice%C3%B1o-caguado-a693aa210/)  
+[GitHub](https://github.com/ruisuhq)
+
+---
+
+*Committed to learn and innovate, looking for environments where code quality, learning, and engineering rigor matter.*
