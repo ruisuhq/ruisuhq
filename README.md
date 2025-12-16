@@ -1,14 +1,7 @@
-# Luis Gerardo Briceño Caguado
+# Profile
 
-- **Software Engineering Student** - Universidad de Guadalajara (CUCEI).
-- Full-stack Developer
-
----
-
-## Profile
-
-- Software Engineering student with strong fundamentals in **backend development, systems, and algorithms**
-- Experience building **real academic and personal projects**, not toy examples
+- **Software Engineering Student** at University of Guadalajara (CUCEI) with strong fundamentals in **backend development, systems, and algorithms**
+- Full-stack Developer, experience building **real academic and personal projects**, not toy examples
 - Comfortable working with **Python and C++**, from logic-heavy code to user-facing applications
 - Fast learner with a clear understanding that **engineering is continuous improvement**
 
